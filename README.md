@@ -1,19 +1,3 @@
-
-# The CooL SDK
-### Cryptographic Observability & On-chain Ledger
-
-**Generate offline-verifiable, tamper-evident receipts for your software's execution—without ever storing the sensitive data itself.**
-
-[![CI](https://github.com/Northwind-Cipher/cool-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/Northwind-Cipher/cool-sdk/actions/workflows/ci.yml)
-[![npm](https://img.shields.io/npm/v/cool-nwc.svg)](https://www.npmjs.com/package/cool-nwc)
-[![node](https://img.shields.io/node/v/cool-nwc.svg)](https://nodejs.org)
-[![types](https://img.shields.io/badge/types-included-blue.svg)](#typescript)
-[![license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
-
-</div>
-
----
-
 ## 📖 Introduction to CooL
 
 CooL provides a developer SDK to generate **independently verifiable evidence** regarding software execution. 
