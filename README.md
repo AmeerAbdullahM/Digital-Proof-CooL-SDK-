@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="assets/hero.svg" alt="CooL — Cryptographic Observability & On-chain Ledger" width="880">
 
 # The CooL SDK
 ### Cryptographic Observability & On-chain Ledger
